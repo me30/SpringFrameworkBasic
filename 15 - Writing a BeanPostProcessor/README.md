@@ -6,3 +6,4 @@
 
 3) BeanFactoryPostProcessor implementations are "called" during startup of the Spring context after all bean definitions will have been loaded while BeanPostProcessor are "called" when the Spring IoC container instantiates a bean (i.e. during the startup for all the singleton and on demand for the proptotypes one)
 
+![jg555](https://user-images.githubusercontent.com/2530543/185309159-6964b9be-94e0-4153-9eca-b04f40f79c75.png)
